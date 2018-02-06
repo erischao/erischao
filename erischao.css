@@ -1,0 +1,38 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+.container {
+  color: #3b3f45;
+}
+
+.columns {
+  box-sizing: border-box;
+  border: 1px dashed black;
+}
+
+#header {
+  height: 50px;
+}
+.profile img {
+  max-width: 80%;
+  height: auto;
+}
+
+.spacer {
+  height: 40px;
+}
+
+.intro {
+  color: #3b3f45;
+  font-size: 2em;
+}
+
+a:link {
+  color: #3b3f45;
+}
+
+a:visited {
+  color: #3b3f45;
+  text-decoration: none;
+}
